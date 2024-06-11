@@ -37,6 +37,7 @@ Run the Streamlit application:
 3. The application will analyze the uploaded documents and generate a comprehensive report.
 
 Acknowledgements
+
 This project was developed as part of the Advance Natural Language Processing course (COMP8420) at [Your University]. Special thanks to our team members:
 
 - Abhishek Gupta (47745649)
